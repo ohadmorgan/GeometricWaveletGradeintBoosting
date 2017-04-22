@@ -1,0 +1,144 @@
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe.config
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.pdb
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.dll
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.dll
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.dll
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.xml
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.pdb
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.xml
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.pdb
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.xml
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.xml
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.xml
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.pdb
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.xml
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Form1.resources
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ManageInputData.resources
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csproj.GenerateResource.Cache
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.exe
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.pdb
+C:\Users\אוהד מורגן\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csprojResolveAssemblyReference.cache
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe.config
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.dll
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.dll
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.dll
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.pdb
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.xml
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.pdb
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.xml
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.xml
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.xml
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.pdb
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.xml
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csprojResolveAssemblyReference.cache
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ManageInputData.resources
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Ohad Morgan\Dropbox\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csproj.GenerateResource.Cache
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe.config
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.dll
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.dll
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.dll
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.pdb
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.xml
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.pdb
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.xml
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.xml
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.xml
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.pdb
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.xml
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csprojResolveAssemblyReference.cache
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ManageInputData.resources
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Ohad Morgan\Dropbox_old\thesis - general\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csproj.GenerateResource.Cache
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe.config
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Math.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.Statistics.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\AForge.Math.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\bin\Debug\Accord.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csprojResolveAssemblyReference.cache
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ManageInputData.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\Boosting code\DataSetsSparsity\obj\Debug\DataSetsSparsity.csproj.GenerateResource.Cache
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe.config
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\AForge.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\AForge.Math.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.Math.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.Math.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.Statistics.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.Statistics.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\AForge.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\AForge.Math.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\bin\Debug\Accord.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.csprojResolveAssemblyReference.cache
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.ManageInputData.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode(forGIT)\DataSetsSparsity\obj\Debug\DataSetsSparsity.csproj.GenerateResource.Cache
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe.config
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\DataSetsSparsity.exe
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\DataSetsSparsity.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\AForge.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\AForge.Math.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.dll
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.Math.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.Math.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.Statistics.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.Statistics.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\AForge.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\AForge.Math.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.pdb
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\bin\Debug\Accord.xml
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.csprojResolveAssemblyReference.cache
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.ManageInputData.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Ohad Morgan\oldDP\thesis\GBM\BoostingCode\DataSetsSparsity\obj\Debug\DataSetsSparsity.csproj.GenerateResource.Cache
